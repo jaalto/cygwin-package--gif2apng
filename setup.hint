@@ -8,4 +8,3 @@ non-animated PNG files and adding support for 8-bit transparency and 24-bit
 images."
 category: Graphics Utils
 requires: zlib0
-
