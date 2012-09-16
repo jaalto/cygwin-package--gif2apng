@@ -1,4 +1,4 @@
-sdesc: "tool for converting animated GIF images to APNG format"
+sdesc: "Tool for converting animated GIF images to APNG format"
 ldesc: "Package provides a command line tool for converting images
 from animated GIF to Animated PNG format.  The Animated Portable Network
 Graphics (APNG) file format is an extension to the Portable Network Graphics

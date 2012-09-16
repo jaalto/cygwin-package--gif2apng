@@ -1,7 +1,7 @@
 gif2apng
 ------------------------------------------
 
-tool for converting animated GIF images to APNG format
+Tool for converting animated GIF images to APNG format
 
 This progrmam provides a command line tool for converting images from
 animated GIF to Animated PNG format.
