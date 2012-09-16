@@ -6,5 +6,5 @@ Graphics (APNG) file format is an extension to the Portable Network Graphics
 to animated GIF files, while retaining backward compatibility with
 non-animated PNG files and adding support for 8-bit transparency and 24-bit
 images."
-category: Graphics Utils
+category: Graphics
 requires: zlib0
