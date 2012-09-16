@@ -13,11 +13,9 @@ files, while retaining backward compatibility with non-animated PNG
 files and adding support for 8-bit transparency and 24-bit images.
 
 Runtime requirements:
-  cygwin
   zlib0
 
 Build requirements:
-  cygwin
   zlib-devel
 
 Canonical homepage:
