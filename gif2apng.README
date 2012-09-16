@@ -1,0 +1,71 @@
+<PKG>
+------------------------------------------
+
+tool for converting animated GIF images to APNG format
+
+This progrmam provides a command line tool for converting images from
+animated GIF to Animated PNG format.
+
+The Animated Portable Network Graphics (APNG) file format is an
+extension to the Portable Network Graphics (PNG) specification. It
+allows for animated PNG files that work similarly to animated GIF
+files, while retaining backward compatibility with non-animated PNG
+files and adding support for 8-bit transparency and 24-bit images.
+
+Runtime requirements:
+  cygwin
+  zlib0
+
+Build requirements:
+  cygwin
+  zlib-devel
+
+Canonical homepage:
+  http://packages.debian.org/gif2apng
+  https://sourceforge.net/projects/gif2apng
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+  http://sourceforge.net/projects/gif2apng/forums/forum/1022150
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Max Stepin <maxst@users.sourceforge.net>
+  Bugs: https://sourceforge.net/tracker/?group_id=276091&atid=1172795
+
+License:
+  Custom: "As is" (zlib-libpng)
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack <PKG>-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./<PKG>*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+
+----- version <VER>-<REL> -----
+- Initial release YYYY-MM-DD Firstname Lastname
+
+Cygwin port maintained by: Firstname Lastname <Your email here>
+Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later

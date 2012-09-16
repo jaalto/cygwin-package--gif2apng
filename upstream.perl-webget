@@ -1,0 +1,2 @@
+tag1: gif2apng
+  http://packages.debian.org/source/unstable/gif2apng pregexp:orig.tar.gz file:gif2apng_1.7.orig.tar.gz

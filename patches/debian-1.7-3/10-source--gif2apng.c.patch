@@ -1,0 +1,16 @@
+Description: Replaced MS-DOS-style /kp syntax by Linux-style -kp
+Author: Khalid El Fathi <khalid@elfathi.fr>
+Last-Update: 2012-04-30
+--- a/gif2apng.c
++++ b/gif2apng.c
+@@ -398,8 +398,8 @@
+ 
+   if (argc <= 1)
+   {
+-    printf("Usage: gif2apng anim.gif [anim.png] [/kp]\n\n"
+-           "/kp  : keep the palette\n");
++    printf("Usage: gif2apng anim.gif [anim.png] [-kp]\n\n"
++           "-kp  : keep the palette\n");
+     return 1;
+   }
+ 
